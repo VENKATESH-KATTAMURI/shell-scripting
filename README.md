@@ -112,4 +112,4 @@ EC2 instance creation completed.
 
 ---
 
-Would you like me to also **add a system architecture diagram (VPC → Subnet → Security Group → EC2)** in markdown (with a link to an image you can upload), so recruiters see a visual workflow too?
+
